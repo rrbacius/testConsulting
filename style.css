@@ -1016,7 +1016,7 @@ svg.svg-features-bottom {
 /*  7.4 CUSTOM SECTION - TESTIMONIALS 			 */
 /*===============================================*/
  .section--testimonials{
-  background-color:#ebfbf5; 
+  background-color:#fff;
 }  
  .testimonials{
   width: 100%;
@@ -1046,7 +1046,7 @@ svg.svg-features-bottom {
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	padding:10px;
-	background-color:#c1f8e1;
+	background-color:#ffba00;
 	margin:auto;
 }
 .testimonials__text{
@@ -1067,7 +1067,7 @@ svg.svg-features-bottom {
 	letter-spacing:-0.5px;
 }
 .testimonials__source a{
-	color:#2dc1a7;
+	color:#ffba00;
 	display:block;
 	font-size:14px;
 	-webkit-transition: all 0.5s;
