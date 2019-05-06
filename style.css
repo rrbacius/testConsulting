@@ -46,8 +46,7 @@ html, body{
 	height:100%;
 }
 body{
-	font-family: 'Source Sans Pro', sans-serif;
-	padding:0;
+	font-family: 'Roboto Mono', monospace;	padding:0;
 	font-size:16px;
 	margin:0 auto;
 	color:#1d1d1d;
@@ -817,7 +816,7 @@ h6{
 .intro__title{
 	padding:0 0 15px 0;
 	color:#fff;
-	font-size:60px;
+	font-size:55px;
 	line-height:74px;
 	letter-spacing:-1px;
 }
@@ -826,7 +825,7 @@ h6{
 }
 .intro__subtitle{
 	padding:0 0 40px 0;
-	font-size:22px;
+	font-size:18px;
 	line-height:32px;
 	color:#fff;
 	letter-spacing:0.4px;
