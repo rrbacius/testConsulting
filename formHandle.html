@@ -26,8 +26,19 @@
         <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
         <input type="submit" value="Submit">
-
     </form>
 </div>
 </body>
 </html>
+<script src="vanta/vendor/three.r92.min.js"></script>
+<script src="vanta/dist/vanta.net.min.js"></script>
+<script>
+    VANTA.NET({
+        el: 'body',
+        color: "rgb(255,186,0)",
+        backgroundColor: "rgb(30, 32, 25)",
+        points: 12.00,
+        maxDistance: 35.00,
+        spacing: 25.00,
+    })
+</script>
