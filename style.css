@@ -418,7 +418,7 @@ h6{
 
 /* ELEMENT - section__description */
 .section__description{
-	font-size:18px;
+	font-size:17px;
 	line-height:32px;
 }
 /* ELEMENT MODIFIER section__description  */
@@ -710,7 +710,7 @@ h6{
 /*  6. BUTTONS	 			 */
 /*===============================================*/
  .btn{
-	padding:12px 40px; 
+	padding:12px 50px;
 	margin:0 20px 0 0;
 	font-size:14px;
 	letter-spacing:0.5px;
@@ -817,7 +817,7 @@ h6{
 .intro__title{
 	padding:0 0 15px 0;
 	color:#fff;
-	font-size:68px;
+	font-size:60px;
 	line-height:74px;
 	letter-spacing:-1px;
 }
@@ -826,7 +826,7 @@ h6{
 }
 .intro__subtitle{
 	padding:0 0 40px 0;
-	font-size:26px;
+	font-size:22px;
 	line-height:32px;
 	color:#fff;
 	letter-spacing:0.4px;
@@ -2617,7 +2617,7 @@ ul.grid__list--fmenu li {
 	 padding:20px 0 0 0;
 }
 .btn{
-	padding:10px 30px; 
+	padding:10px 30px;
 	margin:0 5px;
 }
 .btn--play{
