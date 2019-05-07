@@ -50,7 +50,7 @@ body{
 	font-size:16px;
 	margin:0 auto;
 	color:#1d1d1d;
-	background-color:#fff;
+	background-color:#f2f2f2;
 	font-weight:300;
 }
 .clear{
@@ -1015,7 +1015,7 @@ svg.svg-features-bottom {
 /*  7.4 CUSTOM SECTION - TESTIMONIALS 			 */
 /*===============================================*/
  .section--testimonials{
-  background-color:#fff;
+  background-color:#f2f2f2;
 }  
  .testimonials{
   width: 100%;
