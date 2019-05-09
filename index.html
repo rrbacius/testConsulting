@@ -140,6 +140,50 @@
 </section>
 <footer class="footer" id="footer">
     <!-- Robert - Need to recreate footer -->
+    <section class="section" id="contact">
+        <div class="section__content section__content--fix-width section__content--padding">
+            <h2 class="section__title section__title--centered">Get in touch</h2>
+            <div class="section__description section__description--centered">
+            </div>
+            <div class="grid grid--5col grid--contact">
+                <div class="grid__item grid__item--x2 grid__item--padding">
+                    <h3 class="grid__title"> <span></span> Let's chat.</h3>
+                    <p class="grid__text">Would love to hear from you. Call us directly at:</p>
+                    <a href="tel:+80457888999" class="grid__more">+80 457 888 999</a>
+                </div>
+                <div class="grid__item grid__item--x3 grid__item--form">
+                    <div class="grid__form form">
+                        <svg class="svg-form-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+                            <polygon fill="#ffba00" points="0,0 100,0 0,100"/>
+                        </svg>
+                        <form class="form__container" id="ContactForm" method="post" action="index.html">
+                            <div class="form__row">
+                                <label class="form__label" for="namec">Name</label>
+                                <input name="namec" id="namec" class="form__input" type="text"/>
+                                <span class="form__row-border"></span>
+                            </div>
+                            <div class="form__row">
+                                <label class="form__label">Email</label>
+                                <input name="emailc" class="form__input" type="text"/>
+                                <span class="form__row-border"></span>
+                            </div>
+                            <div class="form__row">
+                                <label class="form__label">Project Type</label>
+                                <textarea name="message" class="form__textarea" rows="1" cols="1"></textarea>
+                                <span class="form__row-border"></span>
+                            </div>
+                            <div class="form__row">
+                                <label class="form__label">Message</label>
+                                <textarea name="message" class="form__textarea" rows="3" cols="3"></textarea>
+                                <span class="form__row-border"></span>
+                            </div>
+                            <input type="submit" name="submit" class="form__submit btn btn--green-bg" id="submitc" value="SEND MESSAGE" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </footer>
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/jquery.paroller.min.js"></script>

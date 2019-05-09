@@ -1535,12 +1535,15 @@ svg.svg-cta-bottom {
 /*  7.10 CUSTOM SECTION - CONTACT	 			 */
 /*===============================================*/
 .grid--contact{
-	background-color:#005e59;
+	background-color:#ffba00;
 	color:#fff;
 	display: flex;
+	margin-bottom: 75px;
+
 }
 .grid--contact .grid__item--x2, .grid--contact .grid__item--x3{
 	margin-bottom:0px;
+
 }
  .grid--contact .grid__item--x2.grid__item--padding{
 	
@@ -1642,7 +1645,7 @@ svg.svg-cta-bottom {
 	width:0px;
 	height:2px;
 	z-index:22;
-	background-color:#005e59;
+	background-color:#1d1d1d;
 	-webkit-transition:all 0.3s 0.12s;
 	transition: all 0.3s 0.12s;
 }
